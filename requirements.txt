@@ -327,7 +327,7 @@ semver @ file:///C:/b/abs_6bgol0at6h/croot/semver_1736542515243/work
 Send2Trash @ file:///C:/b/abs_7e73ol18dl/croot/send2trash_1736542724140/work
 sentry-sdk @ file:///C:/Users/dev-admin/buildout/croot/sentry-sdk_1735879083852/work
 service-identity @ file:///C:/b/abs_2bq9_6ah3e/croot/service_identity_1749714991616/work
-setuptools==72.1.0
+setuptools==82.0.1
 shellingham @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/shellingham_1729046672855/work
 sip @ file:///C:/b/abs_b6twfwtueg/croot/sip_1736544693649/work
 six @ file:///C:/b/abs_149wuyuo1o/croot/six_1744271521515/work
@@ -390,7 +390,7 @@ webencodings @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/web
 websocket-client @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/websocket-client_1729041881346/work
 Werkzeug @ file:///C:/b/abs_c7bupijx2_/croot/werkzeug_1737448709012/work
 whatthepatch @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/whatthepatch_1729057332458/work
-wheel==0.45.1
+wheel==0.47.0
 widgetsnbextension @ file:///C:/Users/dev-admin/buildout/croot/widgetsnbextension_1735847225457/work
 win_inet_pton @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/win_inet_pton_1729038644686/work
 wrapt @ file:///C:/b/abs_68gzx33lzh/croot/wrapt_1736543196433/work
